@@ -1,0 +1,10 @@
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\bin\Debug\Lab2(temp).exe.config
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\bin\Debug\Lab2(temp).exe
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\bin\Debug\Lab2(temp).pdb
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\obj\Debug\Lab2(temp).csproj.AssemblyReference.cache
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\obj\Debug\Lab2_temp_.Form1.resources
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\obj\Debug\Lab2_temp_.Properties.Resources.resources
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\obj\Debug\Lab2(temp).csproj.GenerateResource.cache
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\obj\Debug\Lab2(temp).csproj.CoreCompileInputs.cache
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\obj\Debug\Lab2(temp).exe
+C:\Users\MementoMori\source\repos\Lab2(temp)\Lab2(temp)\obj\Debug\Lab2(temp).pdb
